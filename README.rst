@@ -63,7 +63,7 @@ Simply add the app in your installed apps list in settings.py
         ...
     )
 
-Django-tabbed-admin by default requires Jquery UI tabs plugin in order to work. It is packaged with the static files required to make it funcitonnal, however, they are not activated by default to avoid a conflict with other libraries.
+Django-tabbed-admin by default requires Jquery UI tabs plugin in order to work. It is packaged with the static files required to make it functional, however, they are not activated by default to avoid a conflict with other libraries.
 
 In order to activate the Jquery UI statics, add the following line to the project settings:
 
